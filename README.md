@@ -1,40 +1,40 @@
-Learning Audit and Action
+Learning Audit and Action (Green, Orange or Red).
 
 # On-boarding:
 
-Mindset,
-Agile framework,
-Costructive criticism,
-GitHub,
-Computational thinking,
+Mindset (Orange)
+Agile framework (Orange)
+Costructive criticism (Orange)
+GitHub (Orange)
+Computational thinking (Orange)
 
 # Software engeneer experience:
 
-Team work
-7 step of programming
-Javascript
-Debugging
+Team work (Green)
+7 step of programming (Orange)
+Javascript (Green)
+Debugging (Orange)
 
 # Frontend:
 
-HTML
-CSS
-DOM manipulation
-Asinchronous javascript
-Postman
+HTML (Green)
+CSS (Green)
+DOM manipulation (Green)
+Asinchronous javascript (Green)
+Postman (Green)
 
 # Backend:
 
-Node
-API
-EXPRESS
-Javascript modules
-JSON
+Node (Orange)
+API (Green)
+EXPRESS (Green)
+Javascript modules (Green)
+JSON (Green)
 
 # Database:
 
-Presentation
-Relational database
-SQL comands
-.env
-Entity Relationship Diagram
+Presentation (Orange)
+Relational database (Orange)
+SQL comands (Orange)
+.env (Green)
+Entity Relationship Diagram (Green)
